@@ -1,5 +1,5 @@
 # MyMusicBox
- - Primer proyecto hecho por mi en 2021 con Android Studio. Muestra de código XML y Java en carpeta src, descarga completa en el archivo: "MyMusicBox.zip"
+ - Primera aplicación de Android hecho por mi en 2021 con Android Studio. Muestra de código XML y Java en carpeta src, descarga completa en el archivo: "MyMusicBox.zip"
 
  - MyMusicBox, es un reproductor multimedia con servicio de música, creado con el concepto de hacer una app minimalista, simple y util a la hora de usarse.
  
